@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Nova+Mono&display=swap');
+
+#surprise {
+	font-family: Courier New;
+	color: white;
+}
+
+
+#a {
+	color: red;
+	background-color:LightSkyBlue;
+}
+
+#b {
+	color: lime;
+	background-color: orange;
+}
